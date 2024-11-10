@@ -34,3 +34,6 @@ Before you begin, ensure you have the following installed on your machine:
 ```bash
 npm run deploy-multisigwallet <network>
 ```
+
+## Article
+- [https://www.linkedin.com/pulse/multisigwallet-smart-contract-secure-multi-signature-crypto-smorgun-t3wme/](https://www.linkedin.com/pulse/multisigwallet-smart-contract-secure-multi-signature-crypto-smorgun-t3wme/)
